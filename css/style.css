@@ -47,7 +47,7 @@ a {
     align-items: center;
 }
 
-.wrap_logo {}
+
 
 .logo {
     max-width: 184px;
@@ -347,7 +347,7 @@ a {
     margin: 0px 0 15px 0;
 }
 
-.wrap_features_list_subtitle {}
+
 
 .features_list_subtitle {
     max-width: 360px;
@@ -594,7 +594,7 @@ a {
 
 }
 
-.partners {}
+
 
 .partners_txt {
     max-width: 431px;
@@ -651,7 +651,7 @@ a {
     gap: 75px;
 }
 
-.logo_item a {}
+
 
 .registration {
     max-width: 428px;
@@ -775,7 +775,7 @@ a {
 
 }
 
-.star-rating__wrap {}
+
 
 .star-rating {
     font-size: 0;
@@ -839,7 +839,6 @@ a {
 
 
 
-.logo_footer {}
 
 .nav_footer {
     padding: 70px 0 70px 0;
@@ -875,7 +874,7 @@ a {
 
     }
 
-    .header {}
+   
 
     .navigation_block {
         padding: 30px 0 55px 0;
